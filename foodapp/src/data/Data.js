@@ -136,6 +136,8 @@ export const categories = [
         image:
             'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/FastFood_BrowseHome@3x.png',
     },
+
+    // hello
     {
         id: 2,
         name: 'Pizza',
